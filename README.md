@@ -2,6 +2,9 @@
 
 ### AI-Powered Secure Online Examination Platform
 
+deploy link - https://transcxlabs.vercel.app/
+
+
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
